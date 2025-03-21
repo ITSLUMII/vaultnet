@@ -169,7 +169,8 @@ div#loginPage {
 }
 .layout-mobile .backgroundContainer,
 .layout-desktop .backgroundContainer {
-  background: url(https://i.imgur.com/1S6167t.png)
+  background: linear-gradient(135deg, #0a0a0a 0%, #3d3d3d 100%);
+    color: #e8e8e8;
     no-repeat center center;
 }
 .sectionTitleContainer-cards {
