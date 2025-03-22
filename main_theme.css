@@ -164,7 +164,7 @@ div#loginPage {
   width: 80vw;
 }
 .backdropImage {
-  filter: blur(0px) saturate(120%) contrast(120%) brightness(50%);
+  filter: blur(0px) saturate(100%) contrast(100%) brightness(50%);
   animation: 0.2s ease-in-out both backdrop-fadein;
 }
 .layout-mobile .backgroundContainer,
