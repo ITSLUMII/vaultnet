@@ -25,7 +25,7 @@ h4 {
   --rounding-circle: 100px;
 }
 .backgroundContainer {
-  background-color: rgba(var(--accent), 0.17) !important;
+  background-color: rgba(0, 0, 0, 0);
 }
 * {
   scrollbar-width: none;
