@@ -695,17 +695,16 @@ imgLogoIcon {
   right: 0.2em !important;
   top: 0.2em !important;
 }
-.countIndicator,
-.playedIndicator {
-  border-radius: 100% !important;
-  border: 2px solid rgba(var(--accent), 1) !important;
-}
-.countIndicator,
-.playedIndicator {
-  background: rgba(var(--accent), 0.5) !important;
+.countIndicator, .playedIndicator {
+  background: rgba(44, 25, 81, 0.9) !important;
   color: white !important;
   font-weight: 700;
   font-size: 0.8em;
+}
+
+.countIndicator, .playedIndicator {
+  border-radius: 30% !important;
+  border: 2px solid rgb(154, 86, 255) !important;
 }
 .layout-desktop .detailLogo {
   left: 5%;
